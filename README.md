@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" width="100%" alt="Auldy Ansya Banner"/>
+</p>
+
 <div align="center">
 
 # Hi 👋, I'm Auldy Ansya
